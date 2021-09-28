@@ -11,12 +11,12 @@ Hi! my name is Rosane, but you can call me Rose if you want to! 😛
 - Developer intern at Arkmeds.
 
  ## Connect with me:
- <p align='center'>
+ <p align="center">
 <a href="https://www.linkedin.com/in/rosanesilvafreitas/">
-  <img align="left" alt="Rosane's LinkedIn" width="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Rosane's LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:rosanesfaraujo@gmail.com?subject=Hola%20Jiji">
-  <img align="left" alt="Rosane's Gmail" width="22px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="Rosane's Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
  </p>
 <br />
