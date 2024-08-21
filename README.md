@@ -8,7 +8,7 @@ Hi! my name is Rosane, but you can call me Rose if you want to! 😛
 
 ### I am a:
 - Computer Engineering Student at CEFET-MG 
-- Developer intern at Arkmeds.
+- Product Owner at Arkmeds.
 
 ## Connect with me:
 <p align="center">
