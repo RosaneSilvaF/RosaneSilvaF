@@ -3,7 +3,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### About me:
-#### Pronouns : she/her
 Hi! my name is Rosane, but you can call me Rose if you want to! 😛
 
 ### I am a:
